@@ -1,0 +1,7 @@
+interface:
+  display_name: "Feature and Bug Fix"
+  short_description: "Plan before coding; proposals and results in Chinese"
+  default_prompt: "Use $feature-bugfix to investigate this feature or bug, propose a minimal plan in Chinese, and wait for my approval before changing files."
+
+policy:
+  allow_implicit_invocation: true
